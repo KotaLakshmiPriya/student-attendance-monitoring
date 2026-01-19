@@ -69,7 +69,7 @@ Copy code
 ---
 
 ### Step 1: Clone the Repository
-[git clone https://github.com/your-username/your-repository-name.git](https://github.com/KotaLakshmiPriya/Automated-Student-Attendance-Monitoring)
+(https://github.com/KotaLakshmiPriya/Automated-Student-Attendance-Monitoring)
 
 yaml
 Copy code
